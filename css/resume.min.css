@@ -6,7 +6,8 @@
 body {
     font-family: Muli, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     padding-top: 54px;
-    color: #868e96
+    color: #2c66a0;
+    background-color: #9d9fa0;
 }
 
 @media (min-width:992px) {
@@ -25,7 +26,7 @@ h6 {
     font-family: 'Tinos', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     font-weight: 650;
     text-transform: uppercase;
-    color: #343a40
+    color: #373c41
 }
 
 h1 {
@@ -49,7 +50,7 @@ p.lead {
 .subheading {
     text-transform: uppercase;
     font-weight: 500;
-    font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-family: 'Tinos Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     font-size: 1.5rem
 }
 
@@ -89,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-    outline-color: #365ad1
+    outline-color: #abbaee
 }
 
 @media (min-width:992px) {
@@ -120,7 +121,7 @@ p.lead {
     #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: .5rem solid rgba(255, 255, 255, .2)
+        border: .5rem solid rgba(240, 243, 245, 0.2)
     }
 
     #sideNav .navbar-collapse {
@@ -186,15 +187,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-    color: #619dd8 !important
+    color: #0e74da !important
 }
 
 a {
-    color: #619dd8
+    color: #0e74da
 }
 
 a:active,
 a:focus,
 a:hover {
-    color: rgb(74, 113, 240)
+    color: rgb(135, 153, 211)
 }
