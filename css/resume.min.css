@@ -7,7 +7,7 @@ body {
     font-family: Muli, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     padding-top: 54px;
     color: #2c66a0;
-    background-color: #9d9fa0;
+    background-color: #9d9fa05b;
 }
 
 @media (min-width:992px) {
